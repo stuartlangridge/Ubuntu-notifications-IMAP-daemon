@@ -1,0 +1,5 @@
+mailserver = "imap.gmail.com"
+username = "whatever@gmail.com"
+password = "password"
+url = "https://mail.google.com"
+
